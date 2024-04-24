@@ -55,7 +55,8 @@ if _name_ == "_main_":
     print("File downloaded successfully.")
 ```
 ## OUTPUT:
-![Screenshot 2024-04-18 130303](https://github.com/Rogith08/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/162728044/7e74e414-0508-4f08-99f5-bb11c1ea0d2e)
+![img 5](https://github.com/gowshik145/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/155086127/56fbb135-18bc-4dff-82cb-b45812c8d404)
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
